@@ -1,0 +1,11 @@
+Columns that can be removed:
+----------------------------
+Order: It just acts as an index column.
+MarketingType: It does not affect the analysis
+ReleaseNumber
+File_Type
+
+columns which are important are:
+---------------------------------
+SKU_number : As it represents the product, which is unique identifier for each product
+sold_flag: It represeents whether a product is sold or not , which may be important for analysis
